@@ -1,2 +1,2 @@
 # Coursera_IBM_ML
-Python assignment
+Loan analysis using ML in python on Watson Studio
